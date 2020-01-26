@@ -13,7 +13,6 @@ Como é EF você pode usar como code first e migrar para o banco ou simplesmente
 USE [NomeDoBanco]
 GO
 
-/****** Object:  Table [dbo].[Contribuinte]    Script Date: 26/01/2020 15:58:39 ******/
 SET ANSI_NULLS ON
 GO
 
@@ -34,8 +33,7 @@ CREATE TABLE [dbo].[Contribuinte](
 GO
 
 
-
-
+É necessário ter o NodeJS requisito do React
 
 
 
